@@ -15,21 +15,27 @@ Construir um guia técnico reutilizável para estudos futuros
 Curadoria de Fontes
 
 Data Engineering Overview
+
 https://www.databricks.com/glossary/data-engineering
 
 GRI Sustainability Standards
+
 https://www.globalreporting.org/standards/
 
 AI for Environmental Applications (UNEP)
+
 https://www.unep.org/resources/emerging-ai-environment
 
 MLOps Architecture Guide (Google Cloud)
+
 https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
 
 Python Data Analysis (Pandas Docs)
+
 https://pandas.pydata.org/docs/
 
 Engenharia de Prompts e “Cicatrizes”
+
 Prompt 1
 
 Pergunta:
