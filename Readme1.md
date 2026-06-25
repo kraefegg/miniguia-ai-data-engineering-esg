@@ -34,6 +34,7 @@ Python Data Analysis (Pandas Docs)
 
 https://pandas.pydata.org/docs/
 
+
 Engenharia de Prompts e “Cicatrizes”
 
 Prompt 1
